@@ -1,4 +1,5 @@
 require 'httparty'
+require 'typhoeus'
 require "rbattlenet/version"
 
 #World of Warcraft API
